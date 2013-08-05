@@ -1,0 +1,14 @@
+var config = {};
+config.backend = 'http://sys.airnote.co/v1/';
+config.session_days = 14;
+config.us_number = '402 403 6683';
+config.mx_number = '55 4999 8133';
+config.int_number = '1 403 800 9447';
+config.number = config.us_number;
+config.form_keyword_default = 'keyword';
+config.form_message_default = 'write your info reply here';
+config.form_email_default = 'email';
+config.form_password_default = 'password';
+config.pay_pack_1 = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V5KEZWCW8T4CA';
+config.pay_pack_2 = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=MZ286CQLVVMZU';
+config.pay_pack_3 = 'https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K5DAVHNFXEJWW';
